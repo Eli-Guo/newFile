@@ -1,2 +1,2 @@
 # newFile
-newFile balbalbal~~~
+newFile
